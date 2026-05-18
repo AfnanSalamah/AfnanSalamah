@@ -1,145 +1,98 @@
 <div align="center">
-
-<img src="YOUR_BANNER_IMAGE.png" width="100%" />
+<img src="ChatGPT Image May 18, 2026, 03_09_44 PM.png" width="100%" />
 
 # 👋 Hi there, I'm Afnan Salamah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8B5E3C&center=true&vCenter=true&width=700&lines=Programmer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8C%90;React+%26+React+Native+Developer+%F0%9F%93%B1;Power+BI+Enthusiast+%F0%9F%93%8A;Data+Analyst+%F0%9F%93%88;Creative+UI%2FUX+Designer+%F0%9F%8E%A8" />
+### 💻 Programmer | 🎨 Designer | 📊 Data Analyst
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=8B5E3C&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+React+Native+Developer;Power+BI+Enthusiast;Data+Analyst;Creative+UI%2FUX+Designer" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```yaml
-name: Afnan Salamah
-located_in: Saudi Arabia
-current_focus:
-  [
-    "Frontend Development",
-    "Mobile Applications",
-    "UI/UX Design",
-    "Power BI Dashboards",
-    "Data Analytics"
-  ]
-
-education:
-  [
-    "Computer Science",
-    "Software Development"
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "React Native",
-    "Artificial Intelligence",
-    "Data Analysis",
-    "Creative Design"
-  ]
-
-currently_learning: ["Advanced React Native", "AI", "Backend Development"]
-
-2026 Goals: ["Build impactful projects", "Contribute to open source"]
-```
+✨ Passionate software developer and designer focused on building modern, user-friendly, and impactful digital experiences.  
+📱 Experienced in web development, mobile applications, UI/UX design, and data analytics.  
+📊 Interested in transforming data into meaningful insights using Power BI and analytical tools.
 
 ---
 
 # 💻 Tech Stack
 
-<div align="center">
-
-### 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,php,mysql" />
-
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
+## 👩‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,php,mysql" />
+</p>
 
 ---
 
-# 📊 Analytics & Design
+## 🌐 Frontend & Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-Brown?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Analysis-5C4033?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX_Design-A67B5B?style=for-the-badge" />
-
-</div>
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=gruvbox&hide_border=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=gruvbox&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=gruvbox&hide_border=true"/>
-
-</div>
+- React Native
+- Responsive Web Design
+- UI/UX Design
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=gruvbox&no-frame=true&margin-w=15" />
-
-</div>
+## 📊 Data & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge" />
+</p>
 
 ---
 
-# 🌟 Featured Skills
+# 🛠️ Tools & Platforms
 
-<div align="center">
-
-| Development | Analytics | Design |
-|---|---|---|
-| React.js | Power BI | UI/UX |
-| React Native | Data Visualization | Graphic Design |
-| JavaScript | SQL Analysis | Creative Design |
-| Python | Dashboard Creation | Branding |
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 📈 Currently Learning
 
-<div align="center">
+- Advanced React Native
+- Backend Development
+- AI & Machine Learning
+- Advanced Data Analytics
 
-<a href="https://github.com/YOURUSERNAME">
-  <img src="https://img.shields.io/badge/GitHub-5C4033?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="https://linkedin.com/in/YOURPROFILE">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 🌟 Goals
 
-<a href="https://YOURPORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-A67B5B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+✔️ Build innovative applications  
+✔️ Improve problem-solving skills  
+✔️ Contribute to open-source projects  
+✔️ Create impactful digital solutions
 
-</div>
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ “Turning ideas into creative digital experiences.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5C4033&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile!
 
 </div>
