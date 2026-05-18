@@ -45,7 +45,7 @@ Currently Learning:
 <div align="center">
 
 ## 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,php,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,php,mysql,html,css" />
 
 <br><br>
 
