@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[ChatGPT Image May 18, 2026, 03_09_44 PM.png](https://canva.link/bcbfi7bshfq73m3)" width="100%" />
+<img src="(https://canva.link/bcbfi7bshfq73m3)" width="100%" />
 
 # 👋 Hi there, I'm Afnan Salamah
 
