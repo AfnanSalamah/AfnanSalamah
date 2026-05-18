@@ -1,4 +1,5 @@
 <div align="center">
+<img src="ChatGPT Image May 18, 2026, 03_09_44 PM.png" width="100%" />
 
 # 👋 Hi there, I'm Afnan Salamah
 
