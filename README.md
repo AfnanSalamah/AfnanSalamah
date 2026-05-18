@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://canva.link/bcbfi7bshfq73m3)" width="100%" />
+<img src="I am Here , (1).png" width="100%" />
 
 # 👋 Hi there, I'm Afnan Salamah
 
