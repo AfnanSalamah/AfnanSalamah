@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="I am Here ,.gif" width="100%" />
+<img src="I am Here ,.gif" width="50%" />
 
 # 👋 Hi there, I'm Afnan Salamah
 
